@@ -1,23 +1,7 @@
-# 👋 Hey there, I am Ismail! 😄
+# 👋 Hey there, I am Ismail!
 
-![Vim Fan](https://img.shields.io/badge/-Vim%20Fan-019733?style=for-the-badge&logo=vim&logoColor=white)
-
-I'm a passionate engineer and I love using 🎉 **(Neo)Vim**! 🔥 to code and improve my productivity. 💻🚀
-
-```vim
-" Here's a little Neovim snippet for you:
-" Command Diff: diff two buffers
-vim.cmd([[command! Diff execute 'windo diffthis']])
-
-```
-
-### 🌱 A bit about me
-
-✨ Passionate about crafting clean and elegant code
-
-🤖 I enjoy working with automation and scripts
-
-📚 Always eager to learn new things and level up my skills
+Experienced Software Engineer with a decade of expertise in frontend and backend technologies. 
+Skilled in web development, I prioritize writing clean, maintainable code. Passionate about crafting elegant solutions and proficient in automation and scripting. Always eager to learn and enhance my skills.
 
 ### 🛠️ My Toolbox 💻 
 
@@ -36,5 +20,12 @@ vim.cmd([[command! Diff execute 'windo diffthis']])
 Feel free to reach out and connect with me @ ismk@duck.com
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ismk)
+
+```vim
+" Here's a little Neovim snippet for you:
+" Command Diff: diff two buffers
+vim.cmd([[command! Diff execute 'windo diffthis']])
+
+```
 
 🌟 Keep calm and Vim on! 🌟
