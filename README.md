@@ -3,6 +3,11 @@
 Experienced Software Engineer with a decade of expertise in frontend and backend technologies. 
 Skilled in web development, I prioritize writing clean, maintainable code. Passionate about crafting elegant solutions and proficient in automation and scripting. Always eager to learn and enhance my skills.
 
+### 📫 Connect with me
+Feel free to reach out and connect with me @ ismk@duck.com
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ismk)
+
 ### 🛠️ My Toolbox 💻 
 
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) 
@@ -16,13 +21,7 @@ Skilled in web development, I prioritize writing clean, maintainable code. Passi
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 
-### 📫 Connect with me
-Feel free to reach out and connect with me @ ismk@duck.com
-
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ismk)
-
 ```vim
-" Here's a little Neovim snippet for you:
 " Command Diff: diff two buffers
 vim.cmd([[command! Diff execute 'windo diffthis']])
 
