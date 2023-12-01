@@ -10,7 +10,7 @@ Feel free to reach out and connect with me @ ismk@duck.com
 
 ### 🛠️ My Toolbox 💻 
 
-![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) 
+![Apple Badge](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) 
 
 ![iTerm2 Badge](https://img.shields.io/badge/iTerm2-000?logo=iterm2&logoColor=fff&style=flat) ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
 
