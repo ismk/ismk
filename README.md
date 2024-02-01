@@ -1,4 +1,4 @@
-# 👋 Hey there, I am Ismail!
+# 👋 Hey there
 
 Experienced Software Engineer with a decade of expertise in frontend and backend technologies. 
 Skilled in web development, I prioritize writing clean, maintainable code. Passionate about crafting elegant solutions and proficient in automation and scripting. Always eager to learn and enhance my skills.
