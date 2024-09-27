@@ -12,7 +12,8 @@ Feel free to reach out and connect with me @ ismk@duck.com
 
 ![Apple Badge](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) 
 
-![iTerm2 Badge](https://img.shields.io/badge/iTerm2-000?logo=iterm2&logoColor=fff&style=flat) ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
+
+![WezTerm Badge](https://img.shields.io/badge/wezterm-4E49EE?logo=wezterm&logoColor=fff&style=flat) ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
 
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat)
 ![Elixir Badge](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=fff&style=flat)
